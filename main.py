@@ -42,10 +42,10 @@ st.image(image, caption='Sentiments', use_column_width=True)
 
 # Twitter API Credentials
 
-consumerKey = "GswNodVo2Nb9esRpxVw4U5tre"
-consumerSecret = "HBBjHMJyQB59ZQoLVZ4aoo7KWrpfJQc4reBZALLUgmCeixCLx3"
-Key = "1279626272772026368-mNuvEatiQFvM2MtrlnfPIOVMQIWPmX"
-Secret = "1C5qanmozsVjdQ5nVE8NYOpCvWyykx4qmsxMo1OpvJNPb"
+consumerKey = 'your key here'
+consumerSecret = 'your key here'
+Key = 'your key here'
+Secret = 'your key here'
 
 # Authenticating
 
