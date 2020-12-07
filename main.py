@@ -37,7 +37,7 @@ st.subheader("*Sentiments Analysis of tweets using Tweepy and TextBlob*")
 
 # Import Image
 
-image = Image.open('E:/Twitter Sentiments Analysis Using Tweepy And TextBlob/R-project-sentiment-analysis.jpg')
+image = Image.open('R-project-sentiment-analysis.jpg')
 st.image(image, caption='Sentiments', use_column_width=True)
 
 # Twitter API Credentials
