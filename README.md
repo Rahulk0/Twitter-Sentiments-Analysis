@@ -10,7 +10,12 @@ First of all login from your Twitter account and goto [Twitter Apps](https://app
 
 ### Usage
 
-Once you have created an app on twitter , open main.py and paste your Consumer Key, Consumer Secret, Access Token and Access Token Secret. After that save and run the script. You will be prompted to enter the keyword/hashtag you want to analyze and the number of tweets you want to analyze. Once the analysis is completed, a pie chart will be generated disclosing the results of analysis.
+Once you have created an app on twitter Developer account , open main.py and paste your Consumer Key, Consumer Secret, Access Token and Access Token Secret. After that save and run the script.
+For running the code , You have to write following command in terminal :
+                             streamlit -run main.py
+        replace main.py with the file name.
+        
+You will be prompted to enter the keyword/hashtag you want to analyze and the number of tweets you want to analyze. Once the analysis is completed, a pie chart will be generated disclosing the results of analysis And a tabula dataframe will be also generated.
 
 ## Built With
 
